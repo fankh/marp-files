@@ -3,7 +3,6 @@ marp: true
 theme: default
 paginate: true
 header: 'Python 시큐어코딩'
-footer: '대외비 - 내부 교육자료'
 style: |
   section {
     font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif;
